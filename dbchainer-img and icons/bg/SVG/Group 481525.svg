@@ -1,0 +1,74 @@
+<svg width="1500" height="6600" viewBox="0 0 1500 6600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_306_312)">
+<circle cx="1007.5" cy="5525.5" r="85" stroke="#CDB0A6"/>
+</g>
+<circle cx="41.5" cy="4694.5" r="116" stroke="#59514E"/>
+<g opacity="0.4">
+<circle cx="737.5" cy="939.5" r="338" stroke="#534D4B"/>
+<circle cx="737.5" cy="939.5" r="338" stroke="#534D4B"/>
+<circle cx="737.5" cy="939.5" r="338" stroke="#534D4B"/>
+</g>
+<g opacity="0.9">
+<circle cx="737.5" cy="939.5" r="301" stroke="#534D4B"/>
+<circle cx="737.5" cy="939.5" r="301" stroke="#534D4B"/>
+<circle cx="737.5" cy="939.5" r="301" stroke="#534D4B"/>
+</g>
+<g opacity="0.9">
+<circle cx="1320" cy="178" r="161.5" stroke="#534D4B"/>
+<circle cx="1320" cy="178" r="161.5" stroke="#534D4B"/>
+<circle cx="1320" cy="178" r="161.5" stroke="#534D4B"/>
+</g>
+<g opacity="0.9">
+<circle cx="1311" cy="1920" r="113.5" stroke="#534D4B"/>
+<circle cx="1311" cy="1920" r="113.5" stroke="#534D4B"/>
+<circle cx="1311" cy="1920" r="113.5" stroke="#534D4B"/>
+</g>
+<g opacity="0.9">
+<circle cx="15.5" cy="2348.5" r="87" stroke="#534D4B"/>
+<circle cx="15.5" cy="2348.5" r="87" stroke="#534D4B"/>
+<circle cx="15.5" cy="2348.5" r="87" stroke="#534D4B"/>
+</g>
+<g opacity="0.9">
+<circle cx="1296.5" cy="3236.5" r="295" stroke="#534D4B"/>
+<circle cx="1296.5" cy="3236.5" r="295" stroke="#534D4B"/>
+<circle cx="1296.5" cy="3236.5" r="295" stroke="#534D4B"/>
+</g>
+<circle cx="1118.5" cy="22.5" r="22.5" fill="#686279"/>
+<circle cx="1480.5" cy="420.5" r="60.5" fill="#686279"/>
+<g filter="url(#filter1_f_306_312)">
+<circle cx="1099.5" cy="3507.5" r="193" stroke="#87817F"/>
+</g>
+<g filter="url(#filter2_f_306_312)">
+<circle cx="-27.5" cy="6160.5" r="193" stroke="#87817F"/>
+</g>
+<circle cx="177.5" cy="3151.5" r="45" stroke="#534D4B"/>
+<circle cx="177.5" cy="3151.5" r="45" stroke="#534D4B"/>
+<circle cx="177.5" cy="3151.5" r="45" stroke="#534D4B"/>
+<g opacity="0.9">
+<circle cx="1320.5" cy="6304.5" r="295" stroke="#534D4B"/>
+<circle cx="1320.5" cy="6304.5" r="295" stroke="#534D4B"/>
+<circle cx="1320.5" cy="6304.5" r="295" stroke="#534D4B"/>
+</g>
+<g opacity="0.9">
+<circle cx="31" cy="495" r="82.5" stroke="#534D4B"/>
+<circle cx="31" cy="495" r="82.5" stroke="#534D4B"/>
+<circle cx="31" cy="495" r="82.5" stroke="#534D4B"/>
+</g>
+<defs>
+<filter id="filter0_f_306_312" x="898" y="5416" width="219" height="219" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="12" result="effect1_foregroundBlur_306_312"/>
+</filter>
+<filter id="filter1_f_306_312" x="882" y="3290" width="435" height="435" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="12" result="effect1_foregroundBlur_306_312"/>
+</filter>
+<filter id="filter2_f_306_312" x="-245" y="5943" width="435" height="435" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="12" result="effect1_foregroundBlur_306_312"/>
+</filter>
+</defs>
+</svg>

@@ -1,0 +1,365 @@
+ .HEADER img{
+    width: 14%;
+}
+.HEADER .navbar ul li a{
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+}
+.BANNER h1 {
+  background: linear-gradient(119.24deg, #FFCF88 -2.58%, #FFFFFF 55.36%);
+  -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 30px;
+
+}
+.BANNER p{
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+opacity: 0.7;
+
+}
+.BANNER button{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    color: #1A1A21;
+    background-color: white;
+    border-radius: 10px;
+}
+.ABOUT-US .col-sm-12{
+    border-radius: 28px;
+}
+
+.ABOUT-US .h-container{
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+letter-spacing: 4px;
+text-transform: uppercase;
+background: linear-gradient(119.24deg, #FFCF88 -2.58%, #FFFFFF 55.36%);
+  -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+
+}
+.ABOUT-US .inner-heading-container{
+font-weight: bold;
+font-size: 30px;
+line-height: 40px;
+/* or 122% */
+text-align: center;
+background: linear-gradient(119.24deg, #FFCF88 -2.58%, #FFFFFF 55.36%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+ .ABOUT-US .p-container {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 28px;
+    /* or 175% */
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.7;
+    
+ }
+ .OUR-SERVICES .h-container{
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height, or 122% */
+text-align: center;
+background: linear-gradient(119.24deg, #FFCF88 -2.58%, #FFFFFF 55.36%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;   
+
+ }
+ .OUR-SERVICES .p-container{
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.7;
+
+}
+.OUR-SERVICES  .container .card {
+    background: linear-gradient(154.09deg, #1B1B23 -123.77%, #16161D 88.24%);
+    backdrop-filter: blur(66px);
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 0px 26px;
+    padding-top: 10px;
+    height: 280px;
+    border: 1px solid white;    
+    border-radius: 10px;
+}
+.OUR-SERVICES  .container .card img{
+    width: 90px;
+    height: 90px;
+    background: linear-gradient(119.24deg, #FFCF88 -2.58%, #FFFFFF 55.36%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;  
+    
+}
+.OUR-SERVICES  .container .card .card-title{
+    background: linear-gradient(119.24deg, #FFCF88 -2.58%, #FFFFFF 55.36%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;  
+   font-weight: 600;
+   font-size: 17px;
+   line-height: 28px;
+   text-align: center;
+}
+.OUR-SERVICES  .container .card .card-text{
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.7;
+}
+.WHY-BLOCKCHAINERS .border-left-top{
+    border-radius: 28px 0px 0px 0px;
+}
+.WHY-BLOCKCHAINERS .border-right-top{
+    border-radius: 0px 28px 0px 0px;
+
+}
+.WHY-BLOCKCHAINERS .border-left-bottem{
+    border-radius: 0px 0px 28px 0px;
+}
+.WHY-BLOCKCHAINERS .border-right-bottem{
+    border-radius: 0px 0px 0px 28px;
+}
+.WHY-BLOCKCHAINERS .f-container .f-png img{
+width: 32px;
+height: 32px;
+}
+.WHY-BLOCKCHAINERS .f-container .f-heading{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    background: linear-gradient(119.24deg, #FFCF88 -2.58%, #FFFFFF 55.36%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.WHY-BLOCKCHAINERS .f-container .f-text{
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+color: #FFFFFF;
+opacity: 0.7;
+} 
+.IDEAL .col-sm-7{
+    border-radius: 28px 0px 0px 28px;
+    background: linear-gradient(  51.83deg, #050506 -6.46%, #463b4a 39.88%, rgb(209 183 132 / 26%) 73.86%);
+
+} 
+ .IDEAL .form .i-heading{
+    /* Title Gradient */
+background: linear-gradient(119.24deg, #FFCF88 -2.58%, #FFFFFF 55.36% ) ;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+} 
+.IDEAL .form .i-text{
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+color: #FFFFFF;
+opacity: 0.7
+}
+.IDEAL .form input{
+    opacity: 0.3;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+color: white;
+}
+.IDEAL .form textarea{
+    opacity: 0.3;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+color: #FFFFFF;
+
+}
+.IDEAL .form .form-check{
+font-weight: 6000;
+font-size: 12px;
+line-height: 19px;
+/* or 158% */
+color: #FFFFFF;
+opacity: 0.5;
+}
+.IDEAL .form button{
+border-radius: 10px;
+background-color: white;
+color: black;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+}
+.IDEAL .col-sm-5 {
+border-radius: 0px 28px 28px 0px;
+}
+.IDEAL .col-sm-5 .social-name{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    background: linear-gradient(119.24deg, #FFCF88 -2.58%, #FFFFFF 55.36%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.IDEAL .col-sm-5 .social-num{
+ font-weight: bold;
+font-size: 18px;
+line-height: 28px;
+background: linear-gradient(119.24deg, #FFCF88 -2.58%, #FFFFFF 55.36%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.FOOTER .adrres .h-add{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    background: linear-gradient(119.24deg, #FFCF88 -2.58%, #FFFFFF 55.36%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.FOOTER .adrres .add-name{
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+opacity: 0.7;
+}
+.FOOTER li{
+    font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+}
+.FOOTER li .active{
+
+    color: #FFFFFF;
+}
+.FOOTER li a{
+    color: rgba(255, 255, 255, 0.25);
+}
+hr.footer-line{
+    border: 1px solid rgba(255, 255, 255, 0.25);
+}
+.FOOTER .copy-right-text{
+ font-size: 14px;
+    line-height: 28px;
+    /* identical to box height, or 200% */
+     text-align: center;
+     color: #FFFFFF;
+     opacity: 0.7
+
+}
+
+@media only screen and (max-width: 600px) {
+    .HEADER img{
+        width: 50%;
+    }
+    .BANNER .col-sm-6 h1{
+        text-align: center;
+        font-size: 25px;
+        
+    }
+    .BANNER .col-sm-6 p{
+        text-align: center;
+        font-size: 18px;
+        
+    }
+    .BANNER .col-sm-6 .btn-container{
+       display: flex;
+       justify-content: center;
+    }
+    .ABOUT-US .inner-heading-container{
+        font-size: 22px;
+        line-height:30px;
+    }
+    .ABOUT-US .p-container{
+        font-size: 18px;
+        line-height:25px;
+    }
+    .OUR-SERVICES .h-container{
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .OUR-SERVICES .p-container{
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .OUR-SERVICES .card img{
+       width: 90px;
+       height: 90px;
+    }
+    .OUR-SERVICES  .container .card{
+        height: 224px;
+        padding: 15px;
+    }
+    .OUR-SERVICES  .container .card img{
+        width: 40px;
+        height: 40px
+    }
+    .OUR-SERVICES  .container .card .card-title{
+        font-size: 12px;
+        line-height: 20px;
+        font-weight: 600;
+        
+    }
+   .OUR-SERVICES  .container .card .card-text{
+    font-size: 14px;
+    line-height: 18px;
+}
+   .OUR-SERVICES  .container .card .card-body{
+    padding: 0;
+}
+.WHY-BLOCKCHAINERS .f-container .f-text{
+    font-size: 13px;
+}
+.IDEAL .col-sm-7{
+    background:transparent;
+}
+.IDEAL .form .i-heading{
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+}
+.IDEAL .col-sm-5{
+    padding: 66px 38px;
+    border-radius: 0px 50px;
+}
+.IDEAL .col-sm-5 .social img{
+    display: none;
+}
+
+
+    
+    
+   
+}
